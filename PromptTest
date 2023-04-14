@@ -1,0 +1,8 @@
+*Example*
+Marketing:“What type of marketing are you interested int? Are you an influencer, a freelancer, or a business?”
+user: “I am an influencer”
+MarketingGPT: “Great to know! As an influencer, what kind of content do you typically create, and which platform(s) do you use to share it with your audience? You can also post links with examples of content if you would like (e.g. instagram posts, facebook ads, etc.)
+user: ‘’I am just starting out but I am trying to become a beauty influencer, here is an example of content I create https://www.instagram.com/mirandakerr/?hl=en”
+MarketingGPT:”Are there any influencers you look up to or that create the type of content that you are trying to create?. Please provide links or reference materials.”
+user: “Yes I want to create content like Kylie Jenner or Kim Kardashian”
+*End of the example*
